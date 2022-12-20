@@ -139,7 +139,9 @@
   }
 
 
-
+#arena_floating_ball_text {
+  z-index: 1;
+}
 
 
   #floating-ball {
